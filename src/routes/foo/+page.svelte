@@ -1,0 +1,1 @@
+<a href="/bar">go to bar</a>
